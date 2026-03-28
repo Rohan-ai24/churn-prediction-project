@@ -1,5 +1,7 @@
 # 📡 Customer Churn Prediction Dashboard
-
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
 ## 🚀 Overview
 
 An interactive machine learning dashboard that predicts customer churn using multiple models and provides deep insights through visual analytics.
